@@ -1,0 +1,1 @@
+pip install jupyterlab numpy matplotlib scikit-image ipympl imageio
