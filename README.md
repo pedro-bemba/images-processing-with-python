@@ -20,5 +20,5 @@ O projeto utiliza as seguintes bibliotecas:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/pedro-bemba/images-processing-with-python.git
+cd images-processing-with-python
